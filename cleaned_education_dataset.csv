@@ -1,0 +1,41 @@
+,Student_ID,Student_Name,Gender,Age,Grade_Level,Department,City,Attendance_%,Math_Score,Science_Score,English_Score,History_Score,Avg_Score,Grade,Study_Hours/Week,Internet_Access,Parent_Education,Scholarship,Extracurricular,Pass/Fail,Attendance_Category
+0,S001,Aarav Kumar,Male,16,10th,Science,Chennai,92,88,85,90,78,85.25,B,18,Yes,Graduate,Yes,Yes,Pass,Excellent
+1,S002,Priya Sharma,Female,17,11th,Commerce,Mumbai,87,72,80,68,85,76.25,C,14,Yes,Post-Graduate,No,No,Pass,Good
+2,S003,Rohit Mehta,Male,15,9th,Science,Delhi,75,65,70,60,72,66.75,D,10,No,High School,No,Yes,Pass,Good
+3,S004,Sneha Patel,Female,16,10th,Arts,Ahmedabad,95,55,60,85,90,72.5,C,12,Yes,Graduate,Yes,Yes,Pass,Excellent
+4,S005,Vikram Singh,Male,17,11th,Science,Jaipur,80,90,88,85,70,83.25,B,20,Yes,Post-Graduate,Yes,No,Pass,Good
+5,S006,Ananya Iyer,Female,18,12th,Science,Bangalore,98,95,92,88,96,92.75,A,22,Yes,Post-Graduate,Yes,Yes,Pass,Excellent
+6,S007,Karan Nair,Male,15,9th,Arts,Kochi,60,50,55,70,65,60.0,D,8,No,High School,No,No,Pass,Poor
+7,S008,Divya Reddy,Female,16,10th,Commerce,Hyderabad,88,68,75,72,80,73.75,C,13,Yes,Graduate,No,Yes,Pass,Good
+8,S009,Arjun Joshi,Male,17,11th,Science,Pune,70,78,74,70,65,71.75,C,15,Yes,Graduate,No,No,Pass,Poor
+9,S010,Meera Pillai,Female,18,12th,Commerce,Trivandrum,93,60,85,78,88,77.75,C,16,Yes,Post-Graduate,Yes,Yes,Pass,Excellent
+10,S011,Siddharth Roy,Male,16,10th,Science,Kolkata,82,80,76,74,79,77.25,C,17,Yes,Graduate,No,Yes,Pass,Good
+11,S012,Lakshmi Rao,Female,15,9th,Arts,Chennai,78,55,60,80,75,67.5,D,11,No,High School,No,No,Pass,Good
+12,S013,Nikhil Desai,Male,17,11th,Commerce,Surat,65,62,70,58,66,64.0,D,9,No,High School,No,No,Pass,Poor
+13,S014,Pooja Verma,Female,18,12th,Science,Lucknow,90,88,84,90,86,87.0,B,19,Yes,Post-Graduate,Yes,Yes,Pass,Excellent
+14,S015,Rahul Gupta,Male,16,10th,Arts,Kanpur,55,48,52,65,58,55.75,F,7,No,High School,No,No,Pass,Poor
+15,S016,Ishaan Malhotra,Male,17,11th,Science,Delhi,85,92,89,84,80,86.25,B,21,Yes,Post-Graduate,Yes,Yes,Pass,Good
+16,S017,Tanvi Bhatt,Female,15,9th,Commerce,Vadodara,72,60,68,62,70,65.0,D,10,Yes,Graduate,No,No,Pass,Poor
+17,S018,Aditya Pandey,Male,18,12th,Science,Varanasi,68,74,70,65,72,70.25,C,14,No,Graduate,No,Yes,Pass,Poor
+18,S019,Ritu Saxena,Female,16,10th,Arts,Agra,84,58,62,82,80,70.5,C,12,Yes,High School,No,Yes,Pass,Good
+19,S020,Manish Tiwari,Male,17,11th,Commerce,Bhopal,77,65,72,60,75,68.0,D,13,No,Graduate,No,No,Pass,Good
+20,S021,Kavya Menon,Female,18,12th,Science,Coimbatore,96,94,91,89,95,92.25,A,23,Yes,Post-Graduate,Yes,Yes,Pass,Excellent
+21,S022,Harsh Agarwal,Male,15,9th,Arts,Indore,58,45,50,68,55,54.5,F,6,No,High School,No,No,Pass,Poor
+22,S023,Swati Mishra,Female,16,10th,Science,Nagpur,81,79,77,75,82,78.25,C,16,Yes,Graduate,Yes,No,Pass,Good
+23,S024,Varun Kapoor,Male,17,11th,Commerce,Chandigarh,74,66,71,63,76,69.0,D,12,Yes,Graduate,No,Yes,Pass,Poor
+24,S025,Deepa Nambiar,Female,18,12th,Arts,Kochi,89,62,70,92,88,78.0,C,15,Yes,Post-Graduate,No,Yes,Pass,Good
+25,S026,Akash Srivastava,Male,16,10th,Science,Allahabad,66,72,68,64,70,68.5,D,11,No,Graduate,No,No,Pass,Poor
+26,S027,Shruti Kulkarni,Female,15,9th,Commerce,Nashik,76,58,65,60,72,63.75,D,9,Yes,High School,No,No,Pass,Good
+27,S028,Piyush Bansal,Male,17,11th,Science,Faridabad,83,86,84,80,82,83.0,B,18,Yes,Graduate,Yes,Yes,Pass,Good
+28,S029,Neha Chaudhary,Female,18,12th,Arts,Meerut,91,55,68,94,90,76.75,C,14,No,Post-Graduate,Yes,Yes,Pass,Excellent
+29,S030,Sameer Khan,Male,16,10th,Commerce,Lucknow,70,60,68,58,72,64.5,D,10,No,High School,No,No,Pass,Poor
+30,S031,Anjali Subramaniam,Female,17,11th,Science,Madurai,88,90,87,85,89,87.75,B,20,Yes,Post-Graduate,Yes,Yes,Pass,Good
+31,S032,Rajesh Naidu,Male,15,9th,Arts,Vizag,62,50,55,72,60,59.25,F,8,No,High School,No,No,Pass,Poor
+32,S033,Preeti Sharma,Female,18,12th,Commerce,Gurgaon,94,70,82,75,92,79.75,C,16,Yes,Graduate,Yes,Yes,Pass,Excellent
+33,S034,Yash Chauhan,Male,16,10th,Science,Noida,79,82,78,76,80,79.0,C,15,Yes,Graduate,No,Yes,Pass,Good
+34,S035,Bhavna Soni,Female,17,11th,Arts,Rajkot,85,56,65,90,84,73.75,C,13,Yes,High School,No,Yes,Pass,Good
+35,S036,Kartik Bajaj,Male,18,12th,Science,Amritsar,73,76,74,70,75,73.75,C,12,No,Graduate,No,No,Pass,Poor
+36,S037,Riya Jain,Female,15,9th,Commerce,Jodhpur,80,62,72,65,78,69.25,D,11,Yes,Graduate,No,No,Pass,Good
+37,S038,Suresh Pillai,Male,16,10th,Arts,Thrissur,67,48,54,74,65,60.25,D,9,No,High School,No,No,Pass,Poor
+38,S039,Nandini Ghosh,Female,17,11th,Science,Kolkata,92,88,86,84,91,87.25,B,21,Yes,Post-Graduate,Yes,Yes,Pass,Excellent
+39,S040,Abhishek Pandey,Male,18,12th,Commerce,Patna,76,64,72,60,78,68.5,D,13,No,Graduate,No,Yes,Pass,Good
